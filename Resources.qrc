@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>icons_/bookmark.png</file>
+        <file>icons_/copy-two-paper-sheets-interface-symbol.png</file>
+        <file>icons_/dice.png</file>
+        <file>icons_/folder.png</file>
+        <file>icons_/new-document.png</file>
+        <file>icons_/paste.png</file>
+        <file>icons_/random.png</file>
+        <file>icons_/random-line.png</file>
+        <file>icons_/scissors.png</file>
+        <file>icons_/take-note.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>icons_/take-note.ico</file>
+    </qresource>
+</RCC>
